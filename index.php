@@ -28,7 +28,7 @@
             <div class = "contenedor">
                 <!---LucianoRamos.es-->
                 <article class = "zoom">
-                    <a href="lucianoramos-es.html>"><img src="img/portfolio/lucianoramos.jpg" alt="lucianoramos.es"></a>
+                    <a href="http://lucianoramos.es>"><img src="img/portfolio/lucianoramos.jpg" alt="lucianoramos.es"></a>
                 </article>
                 <!---Kfoam.es-->
                 <article class = "zoom">
