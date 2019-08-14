@@ -10,7 +10,7 @@
 <body>
     <header>
         <div class = "contenedor">
-            <img class = "logo-lucic0rp" src = "img/logo-lucic0rp.svg" alt = "logo-lucic0rp"/>
+            <a href = ""><img class = "logo-lucic0rp" src = "img/logo-lucic0rp.svg" alt = "logo-lucic0rp"/></a>
             <input type = "checkbox" id = "menu-bar">
             <label class = "icon-menu" color = "black" for = "menu-bar"></label>
             <nav class = "menu">
