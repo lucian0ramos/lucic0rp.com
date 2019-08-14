@@ -1,0 +1,19 @@
+#portfolio .contenedor {
+    /*Para que las imágenes estén en una sola línea*/
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#portfolio article {
+    max-width: 280px;
+    margin: 25px;
+}
+.zoom {
+    display: inline-block;
+    overflow:hidden;
+    max-width: 280px;
+}
+#portfolio img {
+    width: 100%;
+    max-width: 280px;
+}
