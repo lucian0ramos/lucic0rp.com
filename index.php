@@ -1,4 +1,4 @@
-<html>
+<html lang="es">
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -26,17 +26,21 @@
         </section>
         <section id = "portfolio">
             <div class = "contenedor">
+                <!---NewsClub-->
+                <article class = "zoom">
+                    <a href="#"><img src="img/portfolio/controlbets.jpg" alt="ControlBets"></a>
+                </article>
+                <!---NewsClub-->
+                <article class = "zoom">
+                    <a href="#"><img src="img/portfolio/newsclub.jpg" alt="Newsclub"></a>
+                </article>
+                <!---Instagram-->
+                <article class = "zoom">
+                    <a href="#"><img src="img/portfolio/instagram.jpg" alt="Instagram"></a>
+                </article>
                 <!---LucianoRamos.es-->
                 <article class = "zoom">
                     <a href="http://lucianoramos.es"><img src="img/portfolio/lucianoramos.jpg" alt="lucianoramos.es"></a>
-                </article>
-                <!---Kfoam.es-->
-                <article class = "zoom">
-                    <a href = "http://kfoam.es"><img src="img/portfolio/kfoam.jpg" alt="kfoam.es"></a>
-                </article>
-                <!---RestauranteCasaLuciano.com-->
-                <article>
-                    <a href = "http://restaurantecasaluciano.com"><img src="img/portfolio/restaurantecasaluciano.jpg" alt="restaurantecasaluciano.com"></a>
                 </article>
                 <!---Thbytamarahidalgo.com-->
                 <article class = "zoom">
